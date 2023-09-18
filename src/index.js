@@ -13,8 +13,10 @@ root.render(
       <h1>Weather Search Engine</h1>
 
       <Form />
-      <p>link to my github repository</p>
-      <a href="https://nmaryy.github.io/weather-react/">click here</a>
+      <p>link to my github repository
+      <a href="https://nmaryy.github.io/weather-react/"> click here </a>
+
+      </p>
     </div>
   </StrictMode>
 );
